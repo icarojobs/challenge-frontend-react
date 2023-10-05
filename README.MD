@@ -9,6 +9,7 @@ O projeto será dividido em 2 diretórios:
 ### DEPENDÊNCIAS DO PROJETO FRONTEND
 Segue lista de dependências utilizadas no frontend:
  - react-router-dom (para navegação entre telas)
+ - phosphor-react (para ícones)
 
 ---
 

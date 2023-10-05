@@ -6,11 +6,16 @@ O projeto será dividido em 2 diretórios:
 1. `API`: Contém uma API em Python, utilizando `FastAPI`.
 2. `frontend`: Contém o código do frontend em `React` com suas dependências.
 
+### DEPENDÊNCIAS DO PROJETO FRONTEND
+Segue lista de dependências utilizadas no frontend:
+ - react-router-dom (para navegação entre telas)
+
 ---
 
 ### DETALHES DO FRONTEND
 Para iniciar o projeto, basta digitar o seguinte comando:
 ```bash
+cd frontend
 npm start
 ```
 

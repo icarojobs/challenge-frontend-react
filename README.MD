@@ -9,7 +9,16 @@ O projeto será dividido em 2 diretórios:
 ---
 
 ### DETALHES DO FRONTEND
-...
+Para iniciar o projeto, basta digitar o seguinte comando:
+```bash
+npm start
+```
+
+Para acessar o projeto, abra o browser na porta 3000:
+```
+http://localhost:3000
+```
+
 
 ---
 
